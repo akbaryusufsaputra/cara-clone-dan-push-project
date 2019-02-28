@@ -8,25 +8,25 @@ install pula github desktop
 setelah itu kita siap untuk mengclone / push data
 
 CARA MENGCLONE PROJECT
-pertama tama buat lah folder terlebih dahulu yang akan dijadikan tempat untuk cloning data
-buka alamat github untuk yang ingin di clone
-klik clone or download
-copy link pada clone with https
-sesudah itu buka folder yang telah dibuat
-tekan shift + klik kanan pada folder dan klik git bash here
-setelah itu ketikkan code 'git clone (ALAMAT)'
-tunggu beberapa saat dan selesai.
+1.pertama tama buat lah folder terlebih dahulu yang akan dijadikan tempat untuk cloning data
+2.buka alamat github untuk yang ingin di clone
+3.klik clone or download
+4.copy link pada clone with https
+5.sesudah itu buka folder yang telah dibuat
+6.tekan shift + klik kanan pada folder dan klik git bash here
+7.setelah itu ketikkan code 'git clone (ALAMAT)'
+8.tunggu beberapa saat dan selesai.
 
 CARA MENGPUSH PROJECT
-pertama tama buka akun anda di www.github.com
-lalu pilih new repository
-lalu isi form yang ada seperti nama repository,deskripsi,dan pilih public/private
-setelah itu klik create repository
-nah muncullah tampilan yang terdapat link , copy link tersebut
-buka file yang akan di push klik kanan dan klik git bash here
-lalu ketikkan code 'git init'
-lalu 'git add *'
-lalu 'git commit -m "isi komentarnya"'itu untuk keterangan ketika file sudah di upload
-selanjutnya ketik 'git remote add origin (link yang sudah di copy diatas)'
-jika sudah di remote maka langkah selanjutnya ketikkan 'git push origin master' <- untuk mengpush project
+1.pertama tama buka akun anda di www.github.com
+2.lalu pilih new repository
+3.lalu isi form yang ada seperti nama repository,deskripsi,dan pilih public/private
+4.setelah itu klik create repository
+5.nah muncullah tampilan yang terdapat link , copy link tersebut
+6.buka file yang akan di push klik kanan dan klik git bash here
+7.lalu ketikkan code 'git init'
+8.lalu 'git add *'
+9.lalu 'git commit -m "isi komentarnya"'itu untuk keterangan ketika file sudah di upload
+10.selanjutnya ketik 'git remote add origin (link yang sudah di copy diatas)'
+11.jika sudah di remote maka langkah selanjutnya ketikkan 'git push origin master' <- untuk mengpush project
 selesai deh
