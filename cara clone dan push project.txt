@@ -1,0 +1,33 @@
+Sebelum kita belajar mengclone dan meng push data alangkah baiknya kita berdoa agar diberi kelancaran
+aminn
+
+pertama-tama buka www.github.com di browser
+bila tidak mempunyai akun maka sign up terlebih dahulu
+apabila sudah mempunyai akun maka
+install lah git-2.18.0 32/64 bit
+install pula github desktop
+setelah itu kita siap untuk mengclone / push data
+
+CARA MENGCLONE PROJECT
+pertama tama buat lah folder terlebih dahulu yang akan dijadikan tempat untuk cloning data
+buka alamat github untuk yang ingin di clone
+klik clone or download
+copy link pada clone with https
+sesudah itu buka folder yang telah dibuat
+tekan shift + klik kanan pada folder dan klik git bash here
+setelah itu ketikkan code 'git clone (ALAMAT)'
+tunggu beberapa saat dan selesai.
+
+CARA MENGPUSH PROJECT
+pertama tama buka akun anda di www.github.com
+lalu pilih new repository
+lalu isi form yang ada seperti nama repository,deskripsi,dan pilih public/private
+setelah itu klik create repository
+nah muncullah tampilan yang terdapat link , copy link tersebut
+buka file yang akan di push klik kanan dan klik git bash here
+lalu ketikkan code 'git init'
+lalu 'git add *'
+lalu 'git commit -m "isi komentarnya"'itu untuk keterangan ketika file sudah di upload
+selanjutnya ketik 'git remote add origin (link yang sudah di copy diatas)'
+jika sudah di remote maka langkah selanjutnya ketikkan 'git push origin master' <- untuk mengpush project
+selesai deh
