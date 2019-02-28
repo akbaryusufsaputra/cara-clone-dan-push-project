@@ -1,5 +1,4 @@
-Sebelum kita belajar mengclone dan meng push data alangkah baiknya kita berdoa agar diberi kelancaran
-aminn
+Sebelum kita belajar mengclone dan meng push data alangkah baiknya kita berdoa agar diberi kelancaran aminn
 
 pertama-tama buka www.github.com di browser
 bila tidak mempunyai akun maka sign up terlebih dahulu
